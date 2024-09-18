@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Swagatam-lab/Swagatam-lab/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Proud Slytherin 🐍—using my Python skills to conjure data magic ✨📊**
 
  </div>
  
