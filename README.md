@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Django, AWS**
+ 🌱 I’m currently learning **FastAPI, Django, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Swagatam-lab/Swagatam-lab/issues)**
+💬 Ask me about  anything [here](https://github.com/Swagatam-lab/Swagatam-lab/issues)**
 
 ⚡ Fun fact :**Proud Slytherin 🐍—using my Python skills to conjure data magic ✨📊**
 
