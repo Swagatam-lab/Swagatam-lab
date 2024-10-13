@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swagatam!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **FastAPI, Django, AWS**
+<h3 align="center">Aspiring Python Developer </h3>
+<p align="center">Welcome to my GitHub! I'm a recent Computer Science graduate with a passion for <strong>Python development</strong> and <strong>data analytics</strong>. I enjoy building projects that automate workflows, extract insights, and solve real-world problems.</p>
+<div >
+<h2>🌱 I’m currently</h2>
+<ul>
+  <li><strong>Learning:</strong> Django, AWS & FastAPI</li>
+  <li><strong>Exploring:</strong> Python Development and Advanced Data Analytics</li>
+  <li><strong>Looking for:</strong> Full-time/Internship opportunities as a <strong>Python Developer</strong></li>
+</ul>
 
 💬 Ask me about  anything [here](https://github.com/Swagatam-lab/Swagatam-lab/issues)**
 
@@ -46,12 +46,11 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swagatam-lab&theme=react-dark&hide_border=true&area=true" />
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Swagatam-lab/Swagatam-lab/output/github-contribution-grid-snake.svg" />
-  
+    
   <br/><br/><br/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -66,6 +65,8 @@
 
 
 <hr/>
+
+
 
 
 
